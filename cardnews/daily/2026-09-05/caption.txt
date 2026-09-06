@@ -1,0 +1,27 @@
+오늘의 테크 인텔 — 9월 5일 (토)
+
+놓치면 안 될 소식 9가지만 골랐습니다.
+
+1. [정책·투자] 피겨AI, 데이터 이어 컴퓨트도 승부수…엔스케일과 10만 GPU 계약
+ · 피겨AI(휴머노이드 로봇 기업)가 엔스케일과 최대 10만 장 규모의 GPU(그래픽 처리 장치) 파트너십을 체결함
+ · 초기 35억 달러 규모의 컴퓨팅 인프라 계약이며 엔스케일의 전략적 투자가 포함됨
+
+2. [XR·공간컴퓨팅] AI/XR Beats: Nvidia Buys the Marketplace, VR Winter…
+
+3. [XR·공간컴퓨팅] Book Character to a 3D Piece: Sculpting Human-Tree…
+
+4. [XR·공간컴퓨팅] Deadlock-Inspired Candleman Animation for the Gaunt…
+
+5. [XR·공간컴퓨팅] Over 500 Free Maya Animation Tools Are Now Availabl…
+
+6. [XR·공간컴퓨팅] NVIDIA Will Acquire Hugging Face for $12.9 Billion
+
+7. [피지컬 AI·로보틱스] Lyte raises $165M to help robots better sense their…
+
+8. [피지컬 AI·로보틱스] Robot.com partners with Sodexo to roll out more sid…
+
+9. [피지컬 AI·로보틱스] Less than 24 hours to apply for your TechCrunch Dis…
+
+출처는 각 카드 하단에 — 전문 요약은 프로필 링크에서.
+
+#XR #VR #AI #피지컬AI #로보틱스 #공간컴퓨팅 #스타트업 #테크뉴스 #Pensieve
