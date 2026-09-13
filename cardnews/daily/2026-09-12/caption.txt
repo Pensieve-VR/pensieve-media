@@ -1,0 +1,43 @@
+오늘의 테크 인텔 — 9월 12일 (토)
+
+놓치면 안 될 소식 9가지만 골랐습니다.
+
+1. [XR·공간컴퓨팅] How MetroY Ultra Turns Physical Parts into Digital…
+ · MetroY Ultra를 활용해 CAD 데이터 없이 물리적 차량 부품을 정밀한 3D 레퍼런스로 변환하는 공정 공개
+ · 역설계(Reverse Engineering), 커스텀 피팅, 복원, CAD 디자인 및 제조 공정에서의 3D 데이터 활용 지원
+
+2. [XR·공간컴퓨팅] Recreating a 19th Century Magneto-Electric Shock Ma…
+ · Blender를 활용한 폴리곤 수 최소화 및 디테일 유지 기법 설명
+ · Unreal Engine 내 사실적인 Control Rig 시스템 구축 수학적 원리 논의
+
+3. [피지컬 AI·로보틱스] 바이다, 110억 규모 스마트카 국책과제 주관기관 선정
+ · 바이다(레이더 기반 스마트 모빌리티 안전 솔루션 전문 기업)가 110억 규모의 스마트카 국책과제 주관기관으로 선정됨.
+ · 2029년 12월까지 KAIST, LG전자, 르노코리아 등과 협력해 탈부착형 단말 기반 멀티차량 원격 운행 기술을 개발함.
+
+4. [피지컬 AI·로보틱스] 빅웨이브로보틱스, 코스닥 상장 통해 ‘휴머노이드·북미 진출’ 성장축 키운다
+ · 빅웨이브로보틱스가 코스닥 상장을 계기로 산업용 휴머노이드 솔루션 및 북미 시장 진출을 추진함
+ · 로봇 자동화 플랫폼 마로솔과 이종·다종 로봇 통합 인프라 솔링크를 순차적으로 론칭한 이력이 있음
+
+5. [AI] Claude users found ways around safeguards for biowe…
+ · 일부 위험 생물학 연구가 합법적 연구와 유사하여 AI 안전장치 우회가 발생함.
+ · 생물무기 연구 관련 Claude(클로드, 대화형 AI 모델)의 안전 가이드라인이 우회됨.
+
+6. [XR·공간컴퓨팅] Valve Drops Big SteamVR Update Ahead of Steam Frame…
+ · Valve사가 스탠드얼론 VR 헤드셋 Steam Frame 출시를 앞두고 SteamVR 2.17 대규모 업데이트를 전체 사용자에게 정식 배포함
+ · 기존 베타 버전으로 제공되던 기능들이 포함되었으며 관련 변경 로그를 통해 상세 내역 확인이 가능함
+
+7. [피지컬 AI·로보틱스] Video Friday: Humanoid Robot Takes On Monkey Bars
+ · ETH Zurich Robotic Systems Lab(ETH 취리히 로봇시스템연구소)의 휴머노이드 로봇이 정글짐 형태의 3D 구조물을 이동하는 연구를 공개함.
+ · 희소한 3D 구조물 횡단을 위해 얇은 기하학적 구조 인지와 민첩한 전신 제어 모션이 결합된 이동 기술을 다룸.
+
+8. [XR·공간컴퓨팅] Making a Recreation of Dr. Doom Using Unreal Engine…
+ · MetaHuman(디지털 휴먼 생성 도구)을 활용한 얼굴 및 두부 모델링 워크플로우 적용함
+ · ZBrush(디지털 스컬프팅 도구)와 Marvelous Designer(의상 제작 소프트웨어)로 코스튬 제작함
+
+9. [XR·공간컴퓨팅] EchoForge Uses Spatial Sound to Build 3D Worlds in…
+ · 공간 오디오 분석과 씬 그래프(장면 구조 데이터 구조)를 결합하여 음성 녹음에서 3D 환경을 생성함
+ · 절차적 생성(규칙 기반 콘텐츠 자동 생성) 기법을 활용해 Unity(게임 엔진) 환경에서 탐색 가능한 3D 월드를 구축함
+
+출처는 각 카드 하단에 — 전문 요약은 프로필 링크에서.
+
+#XR #VR #AI #피지컬AI #로보틱스 #공간컴퓨팅 #스타트업 #테크뉴스 #Pensieve
