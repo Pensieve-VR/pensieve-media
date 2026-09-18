@@ -1,0 +1,43 @@
+오늘의 테크 인텔 — 9월 17일 (목)
+
+놓치면 안 될 소식 9가지만 골랐습니다.
+
+1. [피지컬 AI·로보틱스] KAIST, 말 알아듣고 스스로 길 찾는 로봇으로 국제대회 1·2위 석권
+ · KAIST 명현 교수 연구팀이 ECCV 2026 및 RSS 2026 국제 챌린지에서 각각 1위와 2위를 차지함
+ · 처음 진입하는 건물에서 음성 지시를 이해하고 시각 정보로 자율 주행해 도착 여부를 확인하는 기술임
+
+2. [AI] Low Precision Flash Attention 4: End-to-End Block-S…
+ · FlashAttention-4(고속 어텐션 연산 알고리즘)를 확장하여 MXFP8(마이크로스케일 8비트 포맷) 순방향 및 역방향 연산을 지원함
+ · 블랙웰(NVIDIA 차세대 GPU 아키텍처) 환경에서 LLM(거대 언어 모델) 형상 기준 순방향 2.85 PF/s, 역방향 2 PF/s 성능을 달성함
+
+3. [XR·공간컴퓨팅] 제조 현장 파고든 NC AI, 1.4조 피지컬 AI 국책사업 올라탔다
+ · NC AI가 1.4조 원 규모의 전북·경남 피지컬 AI 국책사업에 동시 선정됨.
+ · 전북 지역에서 3D 디지털트윈 가상환경 구축 및 VLA(시각-언어-행동 모델) 학습·검증 환경을 개발함.
+
+4. [XR·공간컴퓨팅] Dissectible Anatomy Lets Users Cut & Tear Virtual B…
+ · Purdue University가 PBD(위치 기반 동역학), SDF(부호 거리 함수), 볼류메트릭 스플랫을 활용해 가상 인체 해부 모델을 실시간으로 절단 및…
+ · Cryosection(냉동 절편) 이미지를 변형 가능한 3차원 모델로 변환하여 사용자가 실시간으로 탐색할 수 있는 인터랙션을 제공함.
+
+5. [피지컬 AI·로보틱스] DGIST, 연산량 88% 줄인 자율주행 로봇 레이더 기술 개발
+ · DGIST와 주광정밀이 AMR(자율이동로봇)용 고해상도 각도 추정 레이더 기술을 공동 개발함
+ · 레이더 탐지 성능을 유지하면서 데이터 연산량을 88% 수준으로 대폭 절감함
+
+6. [XR·공간컴퓨팅] ‘Great on Frame’ Page Now Boasts 130+ Games & Apps…
+ · Valve의 'Great on Frame' 페이지가 Steam Frame(VR 헤드셋 추정 플랫폼) 최적화 타이틀 130개 이상을 확보함.
+ · 지난 7월 초기 6개 타이틀로 시작했으나 큐레이션 포털의 콘텐츠 규모가 빠르게 확충됨.
+
+7. [XR·공간컴퓨팅] texLab: Packing PBR Maps Inside UE5 Without Lying A…
+ · Unreal Engine 내에서 PBR(물리 기반 렌더링) 맵 패킹을 지원하는 C++ 플러그인 texLab 공개
+ · 파이프라인 TD가 확장 가능한 JSON 기반 시맨틱 데이터베이스 구조 채택
+
+8. [XR·공간컴퓨팅] 3D Artist on Creating a Geometry-Based Plugin That…
+ · Cinema 4D와 Blender에서 작동하는 지오메트리 기반 플러그인 Edgy 소개
+ · 실감나는 균열과 칩 등 6가지 데미지 모듈을 통해 객체 가장자리를 사실적으로 마모 처리함
+
+9. [정책·투자] 디토닉, 데이터 연결 다음은 AI시티…온톨로지로 도시 맥락 읽고 AI 에이전트 조율
+ · 디토닉이 WSCE 2026에서 AI가 도시 맥락을 이해하고 의사결정을 지원하는 AI시티 구상을 공개함
+ · AI 플랫폼 D.Hub 기반으로 이종 데이터를 통합하고 온톨로지와 지식그래프·Hybrid RAG를 활용함
+
+출처는 각 카드 하단에 — 전문 요약은 프로필 링크에서.
+
+#XR #VR #AI #피지컬AI #로보틱스 #공간컴퓨팅 #스타트업 #테크뉴스 #Pensieve
