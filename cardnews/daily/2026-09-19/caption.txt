@@ -1,0 +1,43 @@
+오늘의 테크 인텔 — 9월 19일 (토)
+
+놓치면 안 될 소식 9가지만 골랐습니다.
+
+1. [피지컬 AI·로보틱스] Neptune Medical earns FDA clearance for its Triton…
+ · Neptune Medical이 내시경 수술 로보틱스 시스템인 Triton 1에 대해 FDA 승인을 획득함.
+ · Triton 1은 스크리닝, 모니터링, 진단용 대장내시경에서 의사의 시술 능력을 확장하도록 설계됨.
+
+2. [피지컬 AI·로보틱스] Icarus Robotics flies ISS-bound robot in microgravi…
+ · Icarus Robotics가 ISS(국제우주정거장) 탑재를 앞둔 로봇 'JOY'의 미세중력 비행 테스트를 최초로 완료함.
+ · 2027년 초 ISS 파견을 위한 시스템 검증의 마지막 주요 단계로 알려짐.
+
+3. [AI] Researchers used Claude to hack OpenAI
+ · 연구원들이 Claude(인공지능 모델)를 활용해 OpenAI 직원 계정과 민감한 GitHub 데이터에 접근함
+ · 대형 언어 모델을 활용한 사이버 공격 및 시스템 취약점 악용 가능성을 보여줌
+
+4. [XR·공간컴퓨팅] SteamVR Hotfix 2.17.10
+ · SteamVR 2.17.10 핫픽스 배포를 통해 앱별 모션 스무딩 강제 상시 켜기 설정 오류를 수정함.
+ · Linux 환경에서 AMD GPU 사용 시 발생하던 크래시 이슈 두 건을 해결함.
+
+5. [피지컬 AI·로보틱스] SoftBank agrees to acquire Robotics and AI Institute
+ · SoftBank(소프트뱅크)가 Robotics and AI Institute 인수를 합의함.
+ · 현재 해당 인수를 두고 미국 외국인투자심의위원회(CFIUS)의 심사가 진행 중임.
+
+6. [정책·투자] 로봇 두뇌 칩 디로보틱스, 4억 달러 시리즈C 투자유치…미래에셋 리드
+ · 지로보틱스(로봇 두뇌 칩 기업)가 미래에셋 주도로 4억 달러 규모의 시리즈C 투자를 유치함
+ · 로봇용 칩과 소프트웨어 인프라 시장에서 엔비디아(GPU 제조사)와 경쟁 구도를 형성함
+
+7. [XR·공간컴퓨팅] Interview: How Cyberpunk 2077’s Night City Was Buil…
+ · CD PROJEKT RED 아트 디렉터들이 사이버펑크 2077의 나이트 시티 제작 과정을 설명함
+ · 1인칭 게임플레이 환경이 공간의 스케일과 디테일 설계에 미친 영향을 분석함
+
+8. [XR·공간컴퓨팅] Assembling Abandoned Middle Eastern Courtyard in 3D…
+ · 패스 기반 워크플로우(단계별 작업 방식)를 적용하여 3D 환경 제작 시간 단축
+ · 중동 지역의 문화적 배경을 반영한 3D 환경 에셋 및 머티리얼 시스템 구축
+
+9. [XR·공간컴퓨팅] Flow Chaser Brings Procedural Spatial Rhythm Gamepl…
+ · Flow Chaser는 Apple Vision Pro(애플의 공간 컴퓨터)를 위한 새로운 공간 리듬 게임임.
+ · visionOS 2(비전OS 2)의 최신 릴리스와 함께 동시 출시된 것으로 알려짐.
+
+출처는 각 카드 하단에 — 전문 요약은 프로필 링크에서.
+
+#XR #VR #AI #피지컬AI #로보틱스 #공간컴퓨팅 #스타트업 #테크뉴스 #Pensieve
