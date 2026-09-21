@@ -1,0 +1,43 @@
+오늘의 테크 인텔 — 9월 20일 (일)
+
+놓치면 안 될 소식 9가지만 골랐습니다.
+
+1. [피지컬 AI·로보틱스] 피규어 AI, 휴머노이드 로봇 파운데이션 모델 '헬릭스 2.5' 공개
+ · 피규어 AI(Figure AI), 휴머노이드 파운데이션 모델 '헬릭스(Helix) 2.5' 공개함
+ · 인간 행동 데이터셋 '인덱스(Index)' 기반 사전학습으로 제로샷(사전학습 후 추가학습 없음) 제어 구현함
+
+2. [XR·공간컴퓨팅] visionOS 27 opens Vision Pro tracking to third-part…
+ · visionOS 27을 통해 타사 서드파티 액세서리의 공간 추적 기능 지원 시작
+ · 공간 액세서리는 IR LED와 IMU(관성 측정 장치)를 결합하여 6DoF(6자유도) 추적 수행
+
+3. [XR·공간컴퓨팅] Half-Life: Alyx now runs standalone on Steam Frame,…
+ · Valve(밸브)가 Half-Life: Alyx(하프라이프 알릭스)를 원본 에셋 변경 없이 Steam Frame(스팀 프레임) 헤드셋에서 ARM64/aarch6…
+ · 9월 14일 패치 노트를 통해 게임 콘텐츠 수정 없이 엔진 대부분을 ARM 아키텍처 환경으로 포팅했다고 밝힘
+
+4. [피지컬 AI·로보틱스] 앤트로픽, 자체 생물학 연구소 설립…시뮬레이션 넘어 실제 실험 진출
+ · 앤트로픽(Anthropic)이 샌프란시스코 베이 지역에 자체 생물학 습식 연구소(Wet Lab)를 설립함.
+ · 건식 연구소(Dry Lab) 분석을 넘어 로봇 장비를 직접 제어해 물리적 생물학 실험을 수행함.
+
+5. [XR·공간컴퓨팅] Anthropic loosens Claude's biology safeguards for v…
+ · Anthropic(앤스로픽)은 검증된 생명과학 팀을 대상으로 생물학 관련 안전장치를 완화한 Claude(클로드) 버전을 제공함.
+ · 9월 17일에 발표된 생명과학 검증 프로그램(Life Sciences Verification Program)은 Enterprise, Team, API 사용자 대…
+
+6. [XR·공간컴퓨팅] ChatGPT Plus and Pro stop switching to Thinking for…
+ · OpenAI는 플러스 및 프로 구독자 대상으로 자동 사고 전환 기능을 중단함.
+ · 사용자가 더 깊은 추론 과정을 직접 요청해야 하도록 변경됨.
+
+7. [피지컬 AI·로보틱스] Hirebotics adds line tracking and linear rail capab…
+ · Hirebotics가 코봇(협동로봇)을 위한 라인 트래킹 기능과 리니어 레일 기능을 추가함
+ · 해당 기능들을 통해 제조 현장에서 코봇의 작업 반경이 확장되고 유연성이 향상됨
+
+8. [XR·공간컴퓨팅] Anthropic says Claude led 26% of its own AI researc…
+ · Anthropic(앤트로픽)은 자사 AI 모델 Claude(클로드)가 2026년 8월 기준 자체 AI 연구개발의 26%를 주도했다고 발표함.
+ · 해당 수치는 자체 보고된 결과이며 제3자에 의해 검증되지 않았다고 밝힘.
+
+9. [정책·투자] [위클리 인텔리전스 #21] 국내는 해외 진출 러시, 해외는 AI 인프라 병목과 우주에 3주…
+ · 국내 주요 AI 스타트업들의 일본, 미국, 카자흐스탄 등 해외 시장 진출 가속화
+ · 인핸스가 512억 원 규모의 시리즈C 투자 유치를 단행하며 자금 확보
+
+출처는 각 카드 하단에 — 전문 요약은 프로필 링크에서.
+
+#XR #VR #AI #피지컬AI #로보틱스 #공간컴퓨팅 #스타트업 #테크뉴스 #Pensieve
