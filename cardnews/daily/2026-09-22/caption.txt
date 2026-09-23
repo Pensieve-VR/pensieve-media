@@ -1,0 +1,35 @@
+오늘의 테크 인텔 — 9월 22일 (화)
+
+놓치면 안 될 소식 9가지만 골랐습니다.
+
+1. [AI] Jev introduces a new shape of LLM - System One, aka…
+ · TypeSafe AI가 텍스트 입력 후 확률적 결정을 출력하는 Jev(System One 모델)를 공개함
+ · Jev는 카테고리, 예/아니오, 평점, 신뢰도 점수를 부동소수점 형태로 출력함
+
+2. [XR·공간컴퓨팅] 퀄컴·구글 AI 동맹…제미나이 품은 PC '구글북' 전격 공개
+ · 퀄컴 스냅드래곤 X 엘리트 프로세서를 탑재한 구글 제미나이 최적화 노트북 구글북 전격 공개
+ · 온디바이스 AI와 안드로이드 생태계를 결합하여 기기 간 경계 없는 크로스 디바이스 연동 지원
+
+3. [피지컬 AI·로보틱스] Boston Dynamics opens Metaplant Application Center…
+ · Boston Dynamics가 현대차 조지아공장에 로보틱스 메타플랜트 어플리케이션 센터를 개소함
+ · 해당 센터는 차세대 아틀라스(Atlas 휴머노이드 로봇)를 현장 실증에 투입하기 위해 훈련을 진행함
+
+4. [정책·투자] 뉴로퓨전, 아직 안 일어난 미래 맞히는 AI 벤치마크 1위…슈퍼포캐스터 점수도 넘어
+ · 금융 AI 스타트업 뉴로퓨전이 ForecastBench(미래 사건 확률 평가 벤치마크) 선행 리더보드 데이터셋 부문에서 464개 모델 중 1위를 기록함
+ · 뉴로퓨전 모델은 브라이어 지수 67.5점을 기록하여 구글 딥마인드(Google DeepMind)의 최상위 모델 점수인 65.0점을 상회함
+
+5. [정책·투자] 온세미, AI 다음 전력 승부처는 로봇·공장…2030년 2130억달러 시장 겨냥
+ · 온세미가 AI 데이터센터에서 피지컬 AI(Physical AI)까지 확대하는 전력·센싱 기술 전략을 제시함
+ · 자동차 및 산업용 애플리케이션을 포함한 총유효시장이 2030년 2130억 달러 규모에 이를 것으로 전망함
+
+6. [정책·투자] 잡코리아, 명절 끝나자 이력서 등록 최대 3.7배…연휴가 이직 준비 시간 됐다
+
+7. [AI] Pruning LLMs Like a Physicist: Block Removal as an…
+
+8. [AI] Import AI 473: The US’s superintelligence strategy;…
+
+9. [AI] 4 ways to address the failures we found along the U…
+
+출처는 각 카드 하단에 — 전문 요약은 프로필 링크에서.
+
+#XR #VR #AI #피지컬AI #로보틱스 #공간컴퓨팅 #스타트업 #테크뉴스 #Pensieve
