@@ -1,0 +1,35 @@
+오늘의 테크 인텔 — 9월 26일 (토)
+
+놓치면 안 될 소식 9가지만 골랐습니다.
+
+1. [피지컬 AI·로보틱스] 델프트공대, ‘쥐 수염’ 모방한 촉각 센서로 초소형 드론 자율비행 구현
+ · 네덜란드 델프트공대(TU Delft)가 쥐의 수염을 모사한 초경량 촉각 센서를 개발함.
+ · 해당 센서를 탑재한 초소형 드론이 카메라나 라이다 없이 접촉만으로 어둠 속 자율비행을 구현함.
+
+2. [XR·공간컴퓨팅] The Biggest 3D Art & Technology Highlights From Gam…
+ · Gamescom 2026에서 레이 트레이스드 렌더링과 고밀도 지오메트리 기술 발전이 공개됨
+ · 확장 가능한 에셋 제작 방식과 독점 게임 엔진의 최신 기술 동향이 다뤄짐
+
+3. [XR·공간컴퓨팅] Steam Link now streams to your Quest over a USB cab…
+ · SteamVR 베타 2.18.1과 Steam Link 베타를 통해 메타 퀘스트(Meta Quest) 유선 USB 스트리밍 지원
+ · 와이파이 연결 없이 USB 케이블만으로 PC VR 콘텐츠를 퀘스트 기기에 직접 전송 가능
+
+4. [피지컬 AI·로보틱스] Agility Robotics, maker of Digit humanoid, explorin…
+ · 휴대용 휴머노이드 로봇(Digit) 제조사인 Agility Robotics가 휠 타입 로봇 형태를 검토 중임
+ · 다양한 작업 환경과 고객의 요구사항을 수용하기 위해 로봇 폼팩터의 다변화를 시도하는 것으로 알려짐
+
+5. [피지컬 AI·로보틱스] Robot Talk Episode 163 – Robots helping people, wit…
+ · Hello Robot의 CEO Aaron Edsinger와의 인터뷰를 통해 실생활 지원 로봇의 개발 철학을 다룸
+ · 이동성 제약이 있는 사람들의 독립적 삶을 보조하는 실용적이고 안전한 Stretch 로봇을 소개함
+
+6. [XR·공간컴퓨팅] Exploring Thin, Pale, Slimy Skin Texture by Recreat…
+
+7. [XR·공간컴퓨팅] My exciting and embarrassing interview with Boz
+
+8. [XR·공간컴퓨팅] Breakdown: Animating Tiny Character With Massive Tw…
+
+9. [XR·공간컴퓨팅] Anthropic's 950 Claude agents found an enzyme syste…
+
+출처는 각 카드 하단에 — 전문 요약은 프로필 링크에서.
+
+#XR #VR #AI #피지컬AI #로보틱스 #공간컴퓨팅 #스타트업 #테크뉴스 #Pensieve
