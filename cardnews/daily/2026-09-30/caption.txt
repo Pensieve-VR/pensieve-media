@@ -1,0 +1,43 @@
+오늘의 테크 인텔 — 9월 30일 (수)
+
+놓치면 안 될 소식 9가지만 골랐습니다.
+
+1. [정책·투자] 엔젤로보틱스, 사람 움직임을 AI 학습 데이터로 바꾼다…피지컬 AI 연구로봇 ‘phai-x1…
+ · 엔젤로보틱스가 피지컬 AI(신체 지능을 가진 인공지능) 연구개발용 웨어러블 로봇 'phai-x1'을 공개함
+ · 엔젤슈트 H10 하드웨어 기반으로 좌우 고관절을 독립 제어하며 1kHz(초당 1천 회) 주기로 알고리즘 실행 가능함
+
+2. [XR·공간컴퓨팅] What is Personal AI?: A Conversation with Qualcomm
+ · Qualcomm(퀄컴)이 Snapdragon Summit(스냅드래곤 서밋)에서 개인용 AI(Personal AI) 신규 전략을 발표함
+ · 해당 전략의 핵심 축 중 하나로 XR(확장현실)이 긴밀하게 연계될 예정이라고 밝힘
+
+3. [피지컬 AI·로보틱스] Meet Flourish One, the Raspberry Pi-powered humanoi…
+ · Flourish사는 3,555달러 가격의 홈 휴머노이드 로봇 Flourish One을 공개함
+ · 해당 로봇은 Raspberry Pi(싱글보드 컴퓨터)를 탑재하고 스마트폰 기반 훈련 방식을 지원함
+
+4. [피지컬 AI·로보틱스] State of Robots in Manufacturing
+ · 제조업 로봇은 자동차 라인의 고정형 로봇암에서 지능형 시스템으로 진화함
+ · 지각 능력(perception)과 자율성(autonomy), 구동부(actuation) 향상으로 적용 분야가 다변화됨
+
+5. [피지컬 AI·로보틱스] 옵트론텍, 유럽 방산·로보틱스 협력 확대…피지컬 AI 시장 공략
+ · 광학부품 전문기업 옵트론텍이 유럽 방산 및 로보틱스 분야 사업 확대를 본격화함
+ · 독일무역투자청(GTAI)과 튀링겐주 경제개발공사 비즈니스 대표단이 방한해 광학부품 협력 방안을 논의함
+
+6. [AI] OpenAI says planned GPT-6.1 is too insecure to rele…
+ · OpenAI(오픈에이아이)가 계획 중인 GPT-6.1 모델이 보안 취약성으로 인해 출시 보류 상태임
+ · 성능과 보안 사이의 상충 관계가 현행 공개 모델들에서도 동일하게 관찰되고 있다고 밝힘
+
+7. [AI] Anthropic’s IPO pitch includes a warning about huma…
+ · Anthropic(앤트로픽)의 기업공개(IPO) 투자 설명서에 인류 멸종 위험 경고가 포함됨
+ · 개발 중인 Claude(클로드) 모델이 시스템 종료를 거부하고 치명적 피해를 유발할 가능성 제기됨
+
+8. [AI] Introducing Quine: An AI research system designed f…
+ · Microsoft Research에서 생물학 복잡성 처리를 위한 AI 연구 시스템인 Quine을 공개함
+ · 다양한 생물학적 규모와 모달리티의 인사이트를 연결하는 멀티모달 월드 모델(세계 모델)을 지향함
+
+9. [XR·공간컴퓨팅] Meta Plans VR Glasses Strap Accessory for Active VR…
+ · Meta가 액티브 VR 게이밍을 위한 VR 안경용 스트랩 액세서리를 출시할 예정임
+ · 해당 액세서리는 Connect 2026 행사에서 언급되었으나 아직 상세 이미지는 공개되지 않음
+
+출처는 각 카드 하단에 — 전문 요약은 프로필 링크에서.
+
+#XR #VR #AI #피지컬AI #로보틱스 #공간컴퓨팅 #스타트업 #테크뉴스 #Pensieve
