@@ -1,0 +1,43 @@
+오늘의 테크 인텔 — 10월 2일 (금)
+
+놓치면 안 될 소식 9가지만 골랐습니다.
+
+1. [XR·공간컴퓨팅] Nvidia's new agent watchdog runs on a separate chip…
+ · NVIDIA가 에이전트 안전 플랫폼(Open Agent Safety Platform)을 발표함
+ · 에이전트 감시용 워치독(Watchdog) Sentry를 별도 칩인 BlueField-4 DPU(데이터 처리 장치)에서 구동함
+
+2. [피지컬 AI·로보틱스] 엔비디아, 에이전트 '보안 플랫폼' 공개..."허깅페이스 사태 막을 수 있어"
+ · 엔비디아가 AI 에이전트 보안 플랫폼(NVIDIA Open Agent Safety Platform)을 공개함
+ · 허가받지 않은 시스템 접근과 보안 통제 우회를 방지하기 위한 소프트웨어임
+
+3. [피지컬 AI·로보틱스] 엔비디아, 피규어 AI·게코 로보틱스 등과 로봇 AI 안전 협력 확대
+ · 엔비디아가 AI 에이전트의 안전과 보안을 강화하는 오픈 에이전트 안전 플랫폼을 공개함
+ · 실제 물리적 환경에서 행동하는 피지컬 AI 및 로봇 분야에 활용될 것으로 알려짐
+
+4. [AI] Optimizing Jagged Flash Attention with TLX: The Roa…
+ · Meta의 GEM(생성형 광고 모델)에 사용되는 JFA(가변 길이 플래시 어텐션) 최적화 기법 공개함
+ · NVIDIA Blackwell B200 아키텍처 환경에서 TLX(텐서랭귀지 확장) 기반 커널 성능 최적화 진행함
+
+5. [XR·공간컴퓨팅] Anthropic says robots can do 74% of US physical wor…
+ · Anthropic(앤트로픽)의 새 논문에서 로봇이 미국 전체 물리적 업무의 74%를 수행할 수 있다고 밝힘
+ · 해당 업무는 전체 인간 노동 시간의 34%를 차지하는 규모임
+
+6. [피지컬 AI·로보틱스] 뉴로메카, KAIST와 손목 카메라 없는 휴머노이드 정밀조작 AI 기술 개발
+ · 뉴로메카와 KAIST 김민준 교수팀이 손목 카메라를 제거한 휴머노이드 정밀 조작 AI 기술을 개발함.
+ · 머리에 장착된 단일 RGB 카메라만으로 손과 물체의 상호작용을 정밀 제어하는 SCDP(Spatially Conditioned Diffusion Policy)를…
+
+7. [XR·공간컴퓨팅] Claude Sonnet 5.5 can drop you to Sonnet 5 over som…
+ · Claude Sonnet 5.5(앤스로픽의 대형 언어 모델)는 모든 요청에 안전성 분류기를 실행함
+ · 해당 검사는 사용자가 직접 입력한 내용뿐만 아니라 메모리, 웹 검색 결과, 파일 등 모델이 읽는 모든 데이터를 확인함
+
+8. [XR·공간컴퓨팅] Android Studio now runs Anthropic's Claude Agent an…
+ · 구글 안드로이드 스튜디오(통합 개발 환경) 카나리아 버전에 외부 에이전트 연동 기능 도입
+ · 앤스로픽의 클로드 에이전트(Claude Agent)와 오픈에이아이의 코덱스(Codex)를 IDE 내에서 직접 구동
+
+9. [피지컬 AI·로보틱스] Your Robot’s Safety Functions Already Work. What If…
+ · 로봇이 안전 규칙을 준수하더라도 조작된 입력 정보에 따라 오동작할 위험성 제기
+ · 센서 입력 조작 상황에 대비한 로봇 안전 검증 및 증거 확보 방식 강화 필요성
+
+출처는 각 카드 하단에 — 전문 요약은 프로필 링크에서.
+
+#XR #VR #AI #피지컬AI #로보틱스 #공간컴퓨팅 #스타트업 #테크뉴스 #Pensieve
