@@ -1,0 +1,43 @@
+오늘의 테크 인텔 — 10월 3일 (토)
+
+놓치면 안 될 소식 9가지만 골랐습니다.
+
+1. [피지컬 AI·로보틱스] AMD, 페이페이 리 교수의 '월드랩스' 82억달러에 인수
+ · AMD가 페이페이 리 교수의 공간지능(Spatial Intelligence) AI 기업 월드랩스를 82억달러에 인수함
+ · 월드랩스는 텍스트와 이미지 입력으로 상호작용 가능한 3차원 환경을 생성 및 시뮬레이션하는 기술을 보유함
+
+2. [피지컬 AI·로보틱스] ROS News for the week of September 28th, 2026
+ · Intrinsic(구글 알파벳 자회사)이 Intrinsic Open Core를 공개하고 AI for Industry 챌린지를 마무리함
+ · PickNik(로보틱스 소프트웨어 기업)과 Qualcomm(반도체 기업)의 합병이 발표됨
+
+3. [XR·공간컴퓨팅] ‘Titanfall 2’ VR Mod Brings the Legendary Movement…
+ · 모드 제작자 CircuitLord가 타이탄폴 2(Titanfall 2) 전체 캠페인을 지원하는 완전한 VR 변환 모드를 공개함
+ · 해당 VR 모드는 헤드 트래킹(머리 움직임 추적)과 무기 조준, 메카닉 무기 조작, 수동 재장전 기능을 구현함
+
+4. [XR·공간컴퓨팅] OpenAI retires gpt-5.4-cyber on 20 days' notice, wh…
+ · OpenAI(오픈에이아이)가 API에서 gpt-5.4-cyber 모델을 예고 20일 만에 조기 퇴출함
+ · 자체 규정상 일반 모델 6개월, 특수 변형 모델 3개월의 최소 사전 고지 기간을 위반함
+
+5. [XR·공간컴퓨팅] Google DeepMind watermarks AI-designed proteins, an…
+ · Google DeepMind가 AI 설계 단백질에 SynthID 워터마크 기술을 생물학 분야로 확장함
+ · 습식 실험에서 VEGF-A, SARS-CoV-2 스파이크 단백질 RBD, PD-L1 타겟 대상으로 검증함
+
+6. [피지컬 AI·로보틱스] Robot Talk Episode 164 – Accelerating robot learnin…
+ · Vsim Technology의 Michelle Lu CEO가 로봇 학습 가속화를 위한 시뮬레이션 및 인공지능 활용법을 소개함
+ · 전 NVIDIA 시뮬레이션 기술 디렉터였던 공동 창업진이 세계 최초의 GPU 가속 강화학습(RL) 프레임워크인 Isaac Gym을 개발한 이력이 있음
+
+7. [XR·공간컴퓨팅] Claude Code 2.1.287 adds mods, and Anthropic says t…
+ · Anthropic이 npm에 배포한 Claude Code 2.1.287에 자바스크립트 및 타입스크립트 기반의 플러그인인 Claude Mods 기능이 추가됨
+ · 해당 문서에 따르면, 로드된 모드는 환경 변수와 설정 파일 등 민감한 시크릿 정보 및 API 키에 접근할 수 있는 권한을 가짐
+
+8. [피지컬 AI·로보틱스] Video Friday: Albatross Falls, Spins, Self-Rights,…
+ · 싱가포르 사립대학교(SUTD)에서 공중 투하 후 수상 자율 항해가 가능한 하이브리드 로봇 ALBATROSS 개발
+ · 낙하산 없이 오토로테이션(회전 낙하)으로 수상에 착수하며, 강성 날개를 수상 세일링 추진력으로 재사용
+
+9. [피지컬 AI·로보틱스] 로엔서지컬 ‘자메닉스’, 임상진료 전환 4개월 만에 ‘수술 200례’ 돌파
+ · 로엔서지컬의 AI 기반 신장결석 수술로봇 자메닉스가 임상 진료 전환 4개월 만에 수술 200례를 돌파함
+ · 혁신의료기술 임상진료 목적 사용 승인을 받아 비뇨의학과 결석 치료 현장에 본격적으로 투입됨
+
+출처는 각 카드 하단에 — 전문 요약은 프로필 링크에서.
+
+#XR #VR #AI #피지컬AI #로보틱스 #공간컴퓨팅 #스타트업 #테크뉴스 #Pensieve
