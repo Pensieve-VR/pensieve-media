@@ -1,0 +1,41 @@
+오늘의 테크 인텔 — 10월 9일 (금)
+
+놓치면 안 될 소식 9가지만 골랐습니다.
+
+1. [피지컬 AI·로보틱스] AWS launches open-source Physical AI Toolchain for…
+ · AWS가 로보틱스를 위한 오픈소스 피지컬 AI(Physical AI) 툴체인을 출시함
+ · 합성 데이터 생성부터 모델 학습, 시뮬레이션, 엣지 배포까지의 파이프라인을 통합함
+
+2. [XR·공간컴퓨팅] Valve says Steam can assume NetworkManager when a d…
+ · Valve(밸브)는 Linux(리눅스) 클라이언트 트래커를 통해 SteamOS와 일반 Linux의 경계를 명시함
+ · 배포판이 SteamOS 유사 환경으로 선언될 경우 Steam 클라이언트가 NetworkManager(네트워크 관리 도구) 제어권을 가정할 수 있음
+
+3. [XR·공간컴퓨팅] Nvidia rebuilt its RTX game SDKs for Windows on Arm…
+ · Nvidia가 RTX Spark 칩 공개 8일 전 Windows on Arm64용 RTX 게임 SDK(소프트웨어 개발 키트) 재구축을 진행함.
+ · 9월 29일부터 10월 6일 사이에 7개의 공개 RTX 그래픽 리포지토리에 Arm64 빌드가 추가된 것으로 확인됨.
+
+4. [XR·공간컴퓨팅] SteamOS 0.4.5 beta fixes a Steam Frame colour regre…
+ · Valve(밸브)가 SteamOS 0.4.5 베타를 통해 Steam Frame(스팀 프레임)의 VR 스트리밍 색상 선명도를 개선함
+ · 공식 발표된 적 없는 헤드셋 크로마(Chroma) 회귀 버그를 수정하여 색감 저하 문제를 해결함
+
+5. [피지컬 AI·로보틱스] 인텔리빅스, GOP ‘AI 경계병’ 만든다…방사청 62억원 규모 R&D 착수
+ · 인텔리빅스가 방위사업청 62억원 규모의 차세대 국방 AI 영상감시 플랫폼 개발에 착수함
+ · 울산과학기술원(UNIST) 및 성균관대학교와 공동으로 AI 경계병 R&D를 추진함
+
+6. [정책·투자] [VS 기획] MIT가 그린 ‘건설 AI 지도’…설계부터 조달까지 산업 문법 바뀐다
+ · MIT와 서퍽의 공동 연구 결과 건설 AI 적용 시 총비용 최대 20% 및 공사기간 최대 25% 절감 모델링 보고
+ · 설계·인허가·조달·공정관리 등 건설 프로젝트 전 과정에서 AI 활용 확대 추세 확인
+
+7. [정책·투자] 베슬AI, 업스테이지 ‘솔라 프로4’ 글로벌 추론 운영 맡아
+ · 베슬AI가 업스테이지의 대형언어모델 '솔라 프로4'의 글로벌 추론 인프라 운영을 담당함
+ · 한국, 유럽, 미국의 GPU 서버를 활용하여 전 세계 사용자 요청을 분산 처리함
+
+8. [XR·공간컴퓨팅] Whirligig now ships a Lepton build for Steam Frame,…
+ · VR 비디오 플레이어인 Whirligig이 Valve의 Lepton(안드로이드 호환 레이어) 기반 네이티브 안드로이드 빌드를 출시함
+ · 개발자에 따르면 Proton을 통한 윈도우 버전보다 구동 성능이 우수하다고 밝혀짐
+
+9. [XR·공간컴퓨팅] Sweet Surrender VR cuts its default render scale fr…
+
+출처는 각 카드 하단에 — 전문 요약은 프로필 링크에서.
+
+#XR #VR #AI #피지컬AI #로보틱스 #공간컴퓨팅 #스타트업 #테크뉴스 #Pensieve
