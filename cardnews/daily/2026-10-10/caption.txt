@@ -1,0 +1,43 @@
+오늘의 테크 인텔 — 10월 10일 (토)
+
+놓치면 안 될 소식 9가지만 골랐습니다.
+
+1. [피지컬 AI·로보틱스] 기계연, 로봇 관절·손끝 움직임 정밀 감지하는 초소형 3축 자기 센서 개발...세계 최초 성과
+ · 한국기계연구원 오선종 책임연구원팀이 세계 최초로 초소형 3축 자기 센서를 개발함
+ · 초상자성 나노입자를 잉크젯 프린팅 방식으로 평면 홀 자기저항(PHMR) 소자 위에 인쇄하는 방식 적용
+
+2. [피지컬 AI·로보틱스] 물리 법칙 실시간 예측하는 월드 모델 '오딧세이-3' 공개..."벤치마크 최고 기록"
+ · 오딧세이가 물리 세계의 상호작용을 실시간 예측하는 월드 모델 '오딧세이-3'를 공개함
+ · 해당 파운데이션 월드 모델은 로봇과 자율주행 등 피지컬 AI 시스템 훈련에 최적화됨
+
+3. [XR·공간컴퓨팅] Nvidia's Linux driver now uses the kernel call its…
+ · Nvidia Linux 디스플레이 드라이버 615.78.08이 shmem_kernel_file_setup() 커널 호출을 적용함
+ · GPU 메모리 콘텐츠를 SELinux가 검사하지 않는 커널 전용 파일에 저장하는 방식을 채택함
+
+4. [AI] A new feature for my blog, built using my voice
+ · ChatGPT 데스크톱 앱의 Codex(코드 생성용 탭) 음성 모드를 활용해 블로그 기능을 구현함.
+ · 로컬 개발 환경(Django 기반)을 띄우고 음성으로 지시하여 마이그레이션과 뷰 코드를 작성함.
+
+5. [XR·공간컴퓨팅] FEX caps its translated code cache at 1GB, answerin…
+ · x86 게임 코드를 Arm64 인스트럭션으로 변환하는 FEX가 번역된 코드 캐시를 1GB로 제한함
+ · FEX는 업데이트 시 오래된 캐시를 삭제하여 Steam Frame의 Proton 스택 내 메모리 관리를 개선함
+
+6. [XR·공간컴퓨팅] Sony has signed 419 XR patents over to Meta, and 43…
+ · 소니(Sony)가 메타(Meta)에 419건의 XR 특허를 양도하기로 합의함
+ · 미국 특허청(USPTO) 기록에 따르면 현재까지 43건의 권리 이전이 완료됨
+
+7. [XR·공간컴퓨팅] Anthropic will require Claude-driven machinery to h…
+ · Anthropic(앤트로픽)은 Claude(클로드) 기반 기기가 인명 피해 가능 시 안전 상태 유지 의무 부과
+ · 네트워크 연결 끊김이나 관리자 개입 시 기기를 즉시 정지하거나 안전 상태로 전환하도록 규정
+
+8. [피지컬 AI·로보틱스] Boston Dynamics gives more insight into its redesig…
+ · Boston Dynamics의 로봇 행동 디렉터 Alberto Rodriguez가 재설계된 Atlas(휴머노이드 로봇)의 신형 핸드에 대해 상세히 언급함
+ · 기존 모델 대비 조작성과 파지 능력이 개선된 휴머노이드 핸드(인간형 로봇 손)의 세부 설계 방향이 공개됨
+
+9. [피지컬 AI·로보틱스] 美 코디악-스웨덴 이케아, 무인 트럭 시리즈 출시
+ · 미국 코디악(Kodiak)과 이케아(IKEA)가 4년간의 제휴 끝에 무인 트럭 시리즈를 출시함
+ · 이케아는 하반기 코디악의 무인 자율주행 출시에서 최초의 화물주 파트너로 참여함
+
+출처는 각 카드 하단에 — 전문 요약은 프로필 링크에서.
+
+#XR #VR #AI #피지컬AI #로보틱스 #공간컴퓨팅 #스타트업 #테크뉴스 #Pensieve
