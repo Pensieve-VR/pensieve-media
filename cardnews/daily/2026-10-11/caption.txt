@@ -1,0 +1,41 @@
+오늘의 테크 인텔 — 10월 11일 (일)
+
+놓치면 안 될 소식 9가지만 골랐습니다.
+
+1. [피지컬 AI·로보틱스] 얀 르쿤의 월드 모델 'H-제파', 단·장기 계획 분리로 로봇 경로 계획 성공률 73% 달성
+ · H-JEPA(계층형 월드 모델)는 단기 세부 동작과 장기 목표를 단계별로 분리함.
+ · 시뮬레이션 미로 탐색 실험에서 로봇 경로 계획 성공률을 18%에서 73%로 향상시킴.
+
+2. [XR·공간컴퓨팅] Claude now writes its own programs to run up to 1,0…
+ · Anthropic이 Claude Managed Agents에 최대 1,000개의 에이전트를 동적으로 실행하는 워크플로우 기능을 베타 출시함
+ · Claude 모델이 스스로 프로그램을 작성하고 판단하여 에이전트를 직접 생성 및 구동하는 자율 제어 방식을 도입함
+
+3. [피지컬 AI·로보틱스] Why dexterity is physical AI’s real bottleneck
+ · 로봇 공학의 다음 주요 과제로 로봇 조작성(Dexterity) 시스템의 신뢰성 확보를 지목함
+ · 단순한 기능 구현을 넘어 유용한 작업을 수행할 수 있는 수준의 신뢰성 구축이 필수적임
+
+4. [XR·공간컴퓨팅] inZOI documents two MCP servers so an AI assistant…
+ · KRAFTON(크래프톤)이 inZOI 게임용 MCP(모델 컨텍스트 프로토콜) 서버 2종에 대한 문서를 공개함
+ · 해당 서버를 통해 Claude, ChatGPT, Gemini, Cursor 등의 AI 어시스턴트가 실행 중인 게임을 읽고 제어할 수 있음
+
+5. [XR·공간컴퓨팅] Steam's beta client now runs your non-Steam Windows…
+ · Valve(밸브)의 Steam(스팀) 베타 클라이언트가 비스팀 윈도우 게임을 Proton(프로톤)으로 자동 실행함
+ · 사용자가 별도의 설정 없이 등록된 윈도우 바이너리를 기본적으로 Proton 환경에서 구동함
+
+6. [XR·공간컴퓨팅] LGD "플립으로 IT OLED 시장 열겠다...양산 시기 결정은 아직"
+ · LGD는 FMM(파인메탈마스크)을 쓰지 않는 RGB OLED 기술 '플립(FLiPP)'을 공개함
+ · 플립은 증착 후 노광 공정으로 서브픽셀을 패터닝하며 JDI의 eLEAP, 비전옥스의 ViP와 유사한 기술임
+
+7. [정책·투자] 2026 Q3 한국 스타트업 투자 통계 2026 Q3 한국 스타트업 투자 통계 3분기 만에…
+
+8. [XR·공간컴퓨팅] AMD is trading DMA containment for lower latency on…
+ · 차기 리눅스 커널에서 AMD 내장 그래픽은 IOMMU(입출력 메모리 관리 장치)의 DMA(직접 메모리 접근) 격리 기능을 기본적으로 해제함
+ · AMD 패치에 따르면 해당 설정은 DMA 지연 시간을 줄이기 위해 보안 격리 기능을 포기하는 방식임
+
+9. [XR·공간컴퓨팅] An unannounced Xreal AR glasses computing kit clear…
+ · Xreal(엑스실)의 미발표 AR Glasses Computing Kit(AR 글래스 컴퓨팅 키트)가 FCC(미연방통신위원회) 인증을 획득함.
+ · 해당 기기는 FCC ID 2BBNY-B6111로 등록되었으며, 160MHz 대역폭의 Wi-Fi 6E(와이파이 식스이) 통신을 지원함.
+
+출처는 각 카드 하단에 — 전문 요약은 프로필 링크에서.
+
+#XR #VR #AI #피지컬AI #로보틱스 #공간컴퓨팅 #스타트업 #테크뉴스 #Pensieve
