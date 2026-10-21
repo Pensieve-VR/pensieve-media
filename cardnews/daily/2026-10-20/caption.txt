@@ -1,0 +1,43 @@
+오늘의 테크 인텔 — 10월 20일 (화)
+
+놓치면 안 될 소식 9가지만 골랐습니다.
+
+1. [AI] Inside Prometheus: Meta’s Journey to a Gigawatt-Sca…
+ · 메타가 약 1백만 대 규모의 GPU를 수용하는 기가와트급 슈퍼클러스터 Prometheus의 1단계 구축을 완료함
+ · 대규모 파운데이션 모델 Muse(뮤즈) 학습을 뒷받침하기 위해 폐루프 액체 냉각(closed-loop liquid cooling) 기술을 도입함
+
+2. [피지컬 AI·로보틱스] 로소타, 외과의 수술 경험한 AI로 로봇수술 구현
+ · 수술 데이터 기반 AI 로보틱스 스타트업 로소타(Rosota)가 복강경 수술 데이터를 학습한 AI의 전임상 연구 성과를 공개함
+ · 외과의가 수술 단계를 지정하면 AI가 이에 필요한 기구 움직임을 자율적으로 실행하는 로봇수술을 동물 대상으로 시연함
+
+3. [피지컬 AI·로보틱스] 로봇 AI 스타트업 '드림 랩스', 시드 투자 라운드서 9000만달러 투자 유치
+ · 미국 로봇 AI 스타트업 드림 랩스가 시드 라운드에서 9000만달러를 유치함
+ · 별도 학습 데이터 제공 없이 작업을 수행하는 WAM(월드 액션 모델) '드림-1'을 공개함
+
+4. [XR·공간컴퓨팅] Train Trek's VR mode had no body in it, and Aixcept…
+ · 스튜디오 Aixceptional이 Train Trek의 VR 모드 헤드셋 버전을 재구축함.
+ · 기존에 부재했던 플레이어의 신체와 머리, 손 인터랙션을 새롭게 추가함.
+
+5. [XR·공간컴퓨팅] The XR Week Peek (2026.10.19): Valve discontinues t…
+ · 밸브(Valve)가 인덱스(Index) 헤드셋의 단종을 공식화하고 OLED 프레임 기반의 차세대 기기를 개발 중인 것으로 알려짐
+ · 에픽게임즈(Epic Games)의 CEO 팀 스위니(Tim Sweeney)가 개발진에게 AI 기술에 집중할 것을 주문함
+
+6. [XR·공간컴퓨팅] Making Realistic Tileable Forest Floor Material Usi…
+ · Zeqi Mu가 Substance 3D Designer를 활용해 실감 나는 타일형 숲 바닥 텍스처를 제작하는 공정을 설명함
+ · 자연스러운 뿌리 생장 패턴을 구현하기 위한 노드 구성 기법과 파라미터 조정 방법을 공유함
+
+7. [XR·공간컴퓨팅] A game on an exFAT drive will not start, and Valve…
+ · exFAT 드라이브에 설치된 Steam 게임이 실행되지 않는 문제 발생함
+ · Valve는 Proton(프로톤, 호환성 레이어)이 파일 시스템 기능 부족으로 exFAT을 지원하지 않는다고 밝힘
+
+8. [피지컬 AI·로보틱스] The Robot I Didn’t Expect to Build
+ · Agility Robotics에서 대규모 상용 작업을 수행하는 휴머노이드 로봇 Digit 5를 출시함
+ · 23kg 무게의 상자를 고위치 선반으로 이동할 수 있으며 9분 충전으로 90분 구동 가능함
+
+9. [피지컬 AI·로보틱스] ‘아시모’ 상용화 실패 딛고 일어선 日 혼다…원격 조작형 아바타 로봇 공개
+ · 혼다가 CEATEC 2026에서 원격 조작형 휴머노이드 형태의 혼다 아바타 로봇을 공개함
+ · 사람 손처럼 정교한 다지형 핸드와 AI 지원 시스템을 결합해 원격 조작의 한계를 보완함
+
+출처는 각 카드 하단에 — 전문 요약은 프로필 링크에서.
+
+#XR #VR #AI #피지컬AI #로보틱스 #공간컴퓨팅 #스타트업 #테크뉴스 #Pensieve
