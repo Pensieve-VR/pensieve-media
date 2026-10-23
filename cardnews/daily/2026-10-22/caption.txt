@@ -1,0 +1,43 @@
+오늘의 테크 인텔 — 10월 22일 (목)
+
+놓치면 안 될 소식 9가지만 골랐습니다.
+
+1. [피지컬 AI·로보틱스] 엔비디아, 로봇 데이터 수집 비용 125배 낮추는 모델 '플로라' 공개
+ · 엔비디아가 로봇 데이터 수집 비용을 최대 125배 낮추는 오픈 모델 플로라(Flora)를 공개함
+ · 플로라는 사람과 로봇의 작업 영상을 분석해 동작과 성공 여부 등을 자동으로 기록함
+
+2. [피지컬 AI·로보틱스] Train in Simulation, Deploy on a Real Robot: Microd…
+ · NVIDIA Isaac Lab 3.0(로봇 학습 시뮬레이터)을 활용한 Microduck의 Sim-to-Real 파이프라인 소개
+ · 가상 환경에서 학습한 로봇 제어 정책을 실제 하드웨어에 배포하는 실무적 접근법 제시
+
+3. [XR·공간컴퓨팅] OpenXR's new spatial containers let several XR apps…
+ · Khronos Group(크로노스 그룹)이 여러 XR 애플리케이션이 공간을 공유하는 OpenXR 표준인 spatial containers(공간 컨테이너)를 승인…
+ · spatial containers는 데스크톱 프로그램 창처럼 앱이 렌더링하는 시스템 관리형 공간으로 작동함.
+
+4. [XR·공간컴퓨팅] 누적 수주 1조 넘긴 LG전자 스마트팩토리, 에너지·인프라로 영역 확대
+ · LG전자가 한국수자원공사와 협력해 시화호 AI 조력발전소 추진을 위한 기술협약을 체결함
+ · 발전소 전체를 가상에 구현하는 디지털트윈(가상공간 구현) 기술을 적용해 통합 관리 및 예측 솔루션을 제공함
+
+5. [피지컬 AI·로보틱스] “휴머노이드 로봇이 공작기계 다룬다”…日 미쓰비시전기, 연동 시스템 개발
+ · 미쓰비시전기가 피지컬 AI(Physical AI) 기반 휴머노이드 로봇과 CNC 공작기계 연동 시스템을 개발함.
+ · 작업자가 자연어로 명령을 내리면 로봇과 공작기계가 작업을 분담해 수행하는 방식을 적용함.
+
+6. [XR·공간컴퓨팅] LG이노텍, 엔비디아와 로봇용 센싱 솔루션 개발
+ · LG이노텍이 엔비디아와 협력하여 휴머노이드 및 로봇용 피지컬 AI 센싱 솔루션을 개발함
+ · 엔비디아의 HSB(홀로스캔 센서 브리지) 기술과 LG이노텍의 카메라 및 라이다 기술을 결합함
+
+7. [XR·공간컴퓨팅] EssilorLuxottica's AI glasses and hearing glasses g…
+ · 에실로룩소티카(EssilorLuxottica)의 3분기 웨어러블 매출이 20% 성장함.
+ · 해당 카테고리는 메타(Meta)와 협력한 AI 안경과 뉴언스 오디오(Nuance Audio) 청력 보조 안경을 포함함.
+
+8. [XR·공간컴퓨팅] Claude API resellers can now get one customer banne…
+ · Anthropic(앤트로픽)은 Claude API(응용 프로그램 프로그래밍 인터페이스) 리셀러를 위한 개별 고객 식별 기능을 도입함
+ · 규정 위반 시 전체 계정 차단 대신 위반한 엔드 고객만 개별 차단하는 안전 제재가 가능해짐
+
+9. [XR·공간컴퓨팅] ‘Gears of War: E-Day’ PC VR Mod is Coming with Supp…
+ · 출시 예정인 'Gears of War: E-Day'의 전체 캠페인을 지원하는 PC VR 모드가 개발 중임
+ · 개발자 'rockonthehill'이 무료 형태로 전체 VR 지원 모드를 제작하고 있음
+
+출처는 각 카드 하단에 — 전문 요약은 프로필 링크에서.
+
+#XR #VR #AI #피지컬AI #로보틱스 #공간컴퓨팅 #스타트업 #테크뉴스 #Pensieve
