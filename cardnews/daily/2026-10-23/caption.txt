@@ -1,0 +1,39 @@
+오늘의 테크 인텔 — 10월 23일 (금)
+
+놓치면 안 될 소식 9가지만 골랐습니다.
+
+1. [피지컬 AI·로보틱스] LG이노텍, 엔비디아 손잡고 로봇용 센싱 솔루션 개발
+ · LG이노텍이 GTC Berlin에서 NVIDIA와 협력해 피지컬 AI(Physical AI) 및 로봇용 센싱 솔루션을 공개함
+ · 3메가픽셀 카메라 모듈과 다양한 센서를 결합한 멀티모달 비전 시스템(MVS) 라인업을 선보임
+
+2. [피지컬 AI·로보틱스] 베어로보틱스, 엔비디아와의 엔지니어링 협력 통해 ‘KINO-2’ 출시
+ · 베어로보틱스가 엔비디아와의 협력을 통해 로봇 학습 플랫폼 'KINO-2'를 발표함
+ · 작업 시연 데이터를 휴머노이드 로봇 'KR1'에 즉시 적용 가능한 조작 기술로 전환함
+
+3. [XR·공간컴퓨팅] Google VR Studio Behind ‘Job Simulator’ Unveils ‘Hy…
+ · 구글(Google) 산하 XR 스튜디오인 Owlchemy Labs가 신작 아케이드 블래스터 'Hyper Visor'를 공개함
+ · 해당 타이틀은 최초의 안드로이드 XR(Android XR) 탑재 시스루 AR 글래스인 XREAL AURA의 런칭 타이틀로 출시됨
+
+4. [XR·공간컴퓨팅] 아기상어, 크리스마스 영화로 돌아온다…12월 5일 CGV 개봉
+
+5. [피지컬 AI·로보틱스] Beyond tree cover: mapping the world’s forest types
+ · 전 세계 10m 단위 토지를 구체적인 삼림 유형으로 분류한 글로벌 지도 공개함
+ · 단순한 수목 피복도를 넘어 지구상의 삼림 식생 데이터를 세밀하게 매핑함
+
+6. [피지컬 AI·로보틱스] Dream Labs raises $90M and launches Dream API
+ · 드림 랩스(Dream Labs)가 9,000만 달러 규모의 투자를 유치하고 드림 API(Dream API)를 출시함
+ · 드림-1(Dream-1) AI 모델은 서로 다른 제조사의 로봇 간 작동을 지원하며 학습 내용 전송이 가능함
+
+7. [피지컬 AI·로보틱스] LG전자, 한국수자원공사와 세계 최대 조력발전소 AI 전환 나서
+ · LG전자가 한국수자원공사와 시화호 조력발전소 AI 전환을 위한 협약을 체결함
+ · 피지컬 AI(Physical AI, 물리적 세계를 이해하는 AI)와 디지털트윈 기술을 발전소 운영에 적용함
+
+8. [정책·투자] 히든스카우트, 대기업 경력직 채용 의뢰 23% 증가…연간 수요 40% 인사 시즌 집중
+
+9. [AI] LangSmith LLM Gateway: Runtime Controls for Agents
+ · LangSmith LLM Gateway 공개 베타 버전 출시로 프로덕션 에이전트 런타임 제어 기능 제공함
+ · 비용 상한선, 속도 제한, 모델 폴백, PII(개인정보) 마스킹 기능을 공급자 종속 없이 지원함
+
+출처는 각 카드 하단에 — 전문 요약은 프로필 링크에서.
+
+#XR #VR #AI #피지컬AI #로보틱스 #공간컴퓨팅 #스타트업 #테크뉴스 #Pensieve
